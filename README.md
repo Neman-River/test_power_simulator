@@ -1,6 +1,6 @@
 # Statistical Power Simulator
 
-An interactive Streamlit app for exploring **statistical power** in A/B tests — built as a learning project and portfolio piece.
+An interactive Streamlit app for exploring **statistical power** in A/B tests — built as a learning project.
 
 ## What it does
 

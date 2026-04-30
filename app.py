@@ -177,7 +177,7 @@ with tab1:
                 rows = {
                     "n": sample_sizes,
                     "Power": [f"{p:.1%}" for p in powers],
-                    "≥ 80%?": ["✅" if p >= 0.8 else "❌" for p in powers],
+                    "≥ 80%?": ["yes" if p >= 0.8 else "no" for p in powers],
                 }
                 st.dataframe(rows, use_container_width=True)
 
