@@ -2,6 +2,8 @@
 
 An interactive Streamlit app for exploring **statistical power** in A/B tests — built as a learning project.
 
+https://testpowersimulator.streamlit.app
+
 ## What it does
 
 Statistical power is the probability that a hypothesis test correctly detects a real effect. This app lets you interactively explore two core drivers of power:
