@@ -85,7 +85,7 @@ def power_bar_chart(x_labels: list, powers: list, x_title: str, chart_title: str
 
 
 # ── Title ─────────────────────────────────────────────────────────────────────
-st.title("Statistical Power Simulator")
+st.title("Test Power Simulator")
 st.markdown(
     "Explore how **sample size** and **effect size** drive the power of an A/B test "
     "(two-sample t-test). Adjust sliders and see results update instantly."
